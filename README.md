@@ -5,9 +5,10 @@
 
 - 💬 Ask me about **Java , Javascript, AWS**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **vodeptraivl@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
